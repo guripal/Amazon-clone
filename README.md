@@ -1,1 +1,1 @@
-# Amazon-clone
+Amazon clone using HTML and CSS involves creating a static webpage that mimics the core layout of Amazon's homepage. Key components include a navigation bar with a search bar and cart, a hero section with promotional banners, a product categories section with grid layouts, and a product listings grid showcasing items with images, titles, and prices. A footer with quick links and contact info wraps up the page. Using flexbox or CSS grid ensures the layout is responsive for different screen sizes
